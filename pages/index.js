@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 class="gradienttext super defaultcolor" style="text-align:center;" className={styles.title}>
+        <h1 class="gradienttext super defaultcolor center" className={styles.title}>
           Brandon Lui
         </h1>
 
