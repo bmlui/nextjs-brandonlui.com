@@ -40,7 +40,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
        
-          Made by Brandon Lui.
+          Made by Brandon Lui
 
       </footer>
     </div>
