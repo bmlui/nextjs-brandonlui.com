@@ -1,7 +1,7 @@
 import '../styles/globals.css'
 import Head from "next/head"
-import Header from "./components/Header.js"
-import Footer from "./components/Footer.js"
+import Header from "../components/header.js"
+import Footer from "../components/footer.js"
 
 function MyApp({ Component, pageProps }) {
   return ( 
