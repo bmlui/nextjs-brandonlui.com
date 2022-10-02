@@ -10,7 +10,7 @@ export default function Home() {
        
 
       <p className="text-center text-neutral-400 text-base mb-5">
-        I&#39;m a student at Worcester Polytechnic Institute studying Computer Science.</p>
+        I&#39;m a student at <span className="text-neutral-500">Worcester Polytechnic Institute</span> studying Computer Science.</p>
         <p className="text-center text-lg hover:underline">
          <a href="mailto:contact@brandonlui.com" >contact@brandonlui.com</a>
         </p>
