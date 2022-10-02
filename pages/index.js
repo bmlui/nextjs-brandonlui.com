@@ -17,16 +17,16 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://github.com/bmlui" className={styles.card}>
-            <h2>GitHub &rarr;</h2>
+            <h2 className='font-bold'>GitHub &rarr;</h2>
             <p>@bmlui</p>
           </a>
 
           <a href="https://www.linkedin.com/in/blui/" className={styles.card}>
-            <h2>LinkedIn &rarr;</h2>
+            <h2 className='font-bold'>LinkedIn &rarr;</h2>
             <p>@blui</p>
           </a>
   <a href="https://www.blui.co" className={styles.card}>
-            <h2>Blui &rarr;</h2>
+            <h2 className='font-bold'>Blui &rarr;</h2>
             <p>Shop from my online store</p>
           </a>
     
