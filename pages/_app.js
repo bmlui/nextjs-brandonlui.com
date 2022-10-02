@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
   <>
   <Head>
         <title>Brandon Lui</title>
-        <meta name="description" content="Welcome to Brandon Lui's website." />
+        <meta name="description" content="I'm a student at Worcester Polytechnic Institute studying Computer Science." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <main className='min-h-screen py-6'> 
