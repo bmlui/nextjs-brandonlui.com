@@ -10,7 +10,7 @@ export default function Home() {
        
 
         <p className={styles.description}>
-        I&#39;m a student at Worcester Polytechnic Institute studying Computer Science. <br>
+        I&#39;m a student at Worcester Polytechnic Institute studying Computer Science. <br />
          <a href="mailto:contact@brandonlui.com">contact@brandonlui.com</a>
         </p>
 
