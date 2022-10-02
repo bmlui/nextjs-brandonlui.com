@@ -9,9 +9,10 @@ export default function Home() {
       <main className={styles.main}>
        
 
-        <p className={styles.description}>
-        I&#39;m a student at Worcester Polytechnic Institute studying Computer Science. <br />
-         <a href="mailto:contact@brandonlui.com">contact@brandonlui.com</a>
+      <p className="text-center text-neutral-400 text-base mb-5">
+        I&#39;m a student at Worcester Polytechnic Institute studying Computer Science.</p>
+        <p className="text-center text-lg hover:underline">
+         <a href="mailto:contact@brandonlui.com" >contact@brandonlui.com</a>
         </p>
 
         <div className={styles.grid}>

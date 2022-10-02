@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="description" content="I'm a student at Worcester Polytechnic Institute studying Computer Science." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    <main className='min-h-screen py-6'> 
+    <main className='min-h-screen py-6 px-6'> 
     <Header />
 <Component {...pageProps} />
 </main>
