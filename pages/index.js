@@ -25,10 +25,7 @@ export default function Home() {
             <h2 className='font-bold'>LinkedIn &rarr;</h2>
             <p>@blui</p>
           </a>
-  <a href="https://www.blui.co" className={styles.card}>
-            <h2 className='font-bold'>Blui &rarr;</h2>
-            <p>Shop from my online store</p>
-          </a>
+
     
         </div>
       </main>
