@@ -15,6 +15,8 @@ export default function Home() {
          <a href="mailto:contact@brandonlui.com" >contact@brandonlui.com</a>
         </p>
 
+    <p class="text-center text-lg hover:underline"><a href="tel:+18024172584">+1 (802) 417-BLUI</a></p>
+
         <div className={styles.grid}>
           <a href="https://github.com/bmlui" className={styles.card}>
             <h2 className='font-bold'>GitHub &rarr;</h2>
