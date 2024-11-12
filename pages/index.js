@@ -19,12 +19,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://github.com/bmlui" className={styles.card}>
-            <h2 className='font-bold'>GitHub &rarr;</h2>
+            <h2 className='classical-font font-bold'>GitHub &rarr;</h2>
             <p>@bmlui</p>
           </a>
 
           <a href="https://www.linkedin.com/in/blui/" className={styles.card}>
-            <h2 className='font-bold'>LinkedIn &rarr;</h2>
+            <h2 className='classical-font font-bold'>LinkedIn &rarr;</h2>
             <p>@blui</p>
           </a>
 
