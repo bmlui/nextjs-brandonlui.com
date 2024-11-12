@@ -65,6 +65,13 @@ header {
   text-align: center;
 }
 
+.name {
+  font-family: "Scheherazade New", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
 .description {
   margin: 4rem 0;
   line-height: 1.5;
