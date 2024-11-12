@@ -10,6 +10,9 @@ function MyApp({ Component, pageProps }) {
         <title>Brandon Lui</title>
         <meta name="description" content="I'm a student at Worcester Polytechnic Institute studying Computer Science." />
         <link rel="icon" href="/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;500;600;700&display=swap" rel="stylesheet">
       </Head>
     <main className='min-h-screen py-6 px-6'> 
     <Header />
