@@ -24,7 +24,7 @@ export default function Home() {
           </a>
 
           <a href="https://www.linkedin.com/in/blui/" className={styles.card}>
-            <h2 className='classical-font font-bold'><span className='classical-font'>LinkedIn</span> &rarr;</h2>
+            <h2 className='font-bold'><span className='classical-font'>LinkedIn</span> &rarr;</h2>
             <p>@blui</p>
           </a>
 
